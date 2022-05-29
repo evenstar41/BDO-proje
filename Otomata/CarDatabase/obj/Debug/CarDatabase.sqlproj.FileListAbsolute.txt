@@ -1,0 +1,9 @@
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\bin\Debug\CarDatabase.dacpac
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\bin\Debug\CarDatabase.dll
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\bin\Debug\CarDatabase.pdb
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\obj\Debug\Model.xml
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\obj\Debug\refactor.xml
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\obj\Debug\postdeploy.sql
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\obj\Debug\predeploy.sql
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\obj\Debug\CarDatabase.dll
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\CarDatabase\obj\Debug\CarDatabase.pdb

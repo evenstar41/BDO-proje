@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<arabalar>
+  <araba SeriNo="1">
+    <marka>Honda</marka>
+    <fiyat>400</fiyat>
+    <renk>Kırmızı</renk>
+    <model>Civic </model>
+  </araba>
+  <araba SeriNo="2">
+    <marka>BMW</marka>
+    <fiyat>500</fiyat>
+    <renk>Beyaz</renk>
+    <model>520 </model>
+  </araba>
+  <araba SeriNo="3">
+    <marka>Mercedes</marka>
+    <fiyat>600</fiyat>
+    <renk>Siyah</renk>
+    <model>CLA 200 </model>
+  </araba>
+  <araba SeriNo="4">
+    <marka>Renault</marka>
+    <fiyat>300</fiyat>
+    <renk>Beyaz</renk>
+    <model>Clio </model>
+  </araba>
+  <araba SeriNo="19">
+    <Marka>renault</Marka>
+    <Marka>300</Marka>
+    <Marka>gri</Marka>
+    <Marka>megane</Marka>
+  </araba>
+</arabalar>

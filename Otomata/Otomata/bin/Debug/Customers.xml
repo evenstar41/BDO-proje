@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer SeriNo="0">
+    <LisansNo>12312421312</LisansNo>
+  </Customer>
+  <Customer SeriNo="0">
+    <LisansNo></LisansNo>
+  </Customer>
+  <Customer SeriNo="0">
+    <LisansNo></LisansNo>
+  </Customer>
+  <Customer SeriNo="0">
+    <LisansNo>1465212</LisansNo>
+  </Customer>
+  <Customer SeriNo="0">
+    <LisansNo></LisansNo>
+  </Customer>
+</Customers>

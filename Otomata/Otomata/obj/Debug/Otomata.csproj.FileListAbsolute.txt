@@ -1,0 +1,11 @@
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\bin\Debug\Otomata.exe.config
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\bin\Debug\Otomata.exe
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\bin\Debug\Otomata.pdb
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.Form1.resources
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.Properties.Resources.resources
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.csproj.GenerateResource.cache
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.exe
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.pdb
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.csprojAssemblyReference.cache
+C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.Form3.resources
