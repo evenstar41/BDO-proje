@@ -73,6 +73,7 @@
     <Content Include="App_Data\CarDatabase_log.ldf">
       <DependentUpon>CarDatabase.mdf</DependentUpon>
     </Content>
+    <Content Include="araba.xml" />
     <Content Include="CarService.asmx" />
     <Content Include="XMLFile1.xml" />
     <None Include="Connected Services\ServiceCar\configuration91.svcinfo" />

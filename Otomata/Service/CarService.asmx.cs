@@ -26,14 +26,24 @@ namespace Service
         {
             XmlReader reader;
             DataSet ds = new DataSet();
-            reader = XmlReader.Create(@"XMLFile1.xml", new XmlReaderSettings());
+            reader = XmlReader.Create(@"araba.xml", new XmlReaderSettings());
             ds.ReadXml(reader);
             return ds;
         }
-        //public DataSet Kirala()
-        //{
 
-        //}
+        
+
+        [WebMethod]
+        public string Kirala()
+        {
+            return "Araba kiralamanız başarıyla tamamlanmıştır :)  Ödeyeceğiniz tutar:";
+        }
+        
+
+
+
+        
+        
 
     
 
@@ -41,36 +51,7 @@ namespace Service
 
 
 
-        //public void XmlOlustur()
-        //{
-        //    Otomata.Form2 form2 = new Otomata.Form2();
-
-        //    form2
-
-        //    XmlReader reader;
-        //    DataSet ds = new DataSet();
-        //    reader = XmlReader.Create(@"araba.xml", new XmlReaderSettings());
-        //    ds.ReadXml(reader);
-        //    dataGridView1.DataSource = ds.Tables[0];
-        //    reader.Close();
-        //}
-
-        //[WebMethod]
-        //public string XmlOkuma()
-        //{
-        //    string xmlDosyasi = @"araba.xml";
-        //    XmlTextReader XmlOkuyucu = new XmlTextReader(xmlDosyasi);
-
-        //    while (XmlOkuyucu.Read())
-        //    {
-        //        if (XmlOkuyucu.NodeType == XmlNodeType.Element)
-        //        {
-        //            ("Etiket: {0} İçerik: {1}", XmlOkuyucu.Name, XmlOkuyucu.ReadElementContentAsString());
-        //        }
-        //    }
-
-        //    XmlOkuyucu.Close();
-        //    return 
-        //}
-    }
+        
+   }
+    
 }

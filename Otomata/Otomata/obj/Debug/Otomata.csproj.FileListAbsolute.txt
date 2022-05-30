@@ -7,5 +7,4 @@ C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.csproj.Ge
 C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.csproj.CoreCompileInputs.cache
 C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.exe
 C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.pdb
-C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.csprojAssemblyReference.cache
 C:\Users\ferdi\Desktop\OTOMATA PROJE\Otomata\Otomata\obj\Debug\Otomata.Form3.resources

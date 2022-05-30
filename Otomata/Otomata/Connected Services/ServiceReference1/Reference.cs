@@ -22,6 +22,13 @@ namespace Otomata.ServiceReference1 {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/Oku", ReplyAction="*")]
         System.Threading.Tasks.Task<System.Data.DataSet> OkuAsync();
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/Kirala", ReplyAction="*")]
+        [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
+        string Kirala();
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/Kirala", ReplyAction="*")]
+        System.Threading.Tasks.Task<string> KiralaAsync();
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -57,6 +64,14 @@ namespace Otomata.ServiceReference1 {
         
         public System.Threading.Tasks.Task<System.Data.DataSet> OkuAsync() {
             return base.Channel.OkuAsync();
+        }
+        
+        public string Kirala() {
+            return base.Channel.Kirala();
+        }
+        
+        public System.Threading.Tasks.Task<string> KiralaAsync() {
+            return base.Channel.KiralaAsync();
         }
     }
 }
